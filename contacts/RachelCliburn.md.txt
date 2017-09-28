@@ -1,0 +1,8 @@
+Name: Rachel Cliburn 
+Status: graduate student  
+Degree program: Neuroscience  
+School: Emory  
+Lab: Miller lab  
+Programming languages: R   
+Github: https://github.com/racliburn  
+twitter: @racliburn 
